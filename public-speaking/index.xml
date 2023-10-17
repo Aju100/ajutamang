@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aju Tamang</title>
+    <link>https://www.ajutamang.com.np/public-speaking/</link>
+    <description>Recent content on Aju Tamang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Jun 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ajutamang.com.np/public-speaking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://www.ajutamang.com.np/public-speaking/2012-06-08-graduation-speech/</link>
+      <pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ajutamang.com.np/public-speaking/2012-06-08-graduation-speech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

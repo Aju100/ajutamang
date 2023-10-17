@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aju Tamang</title>
+    <link>https://www.ajutamang.com.np/</link>
+    <description>Recent content on Aju Tamang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ajutamang.com.np/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevOps/SRE Engineer - GaltSudoers</title>
+      <link>https://www.ajutamang.com.np/experience/galt/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ajutamang.com.np/experience/galt/</guid>
+      <description>Successfully transitioned the entire manual Jenkins CI/CD process, encompassing infrastructure, jobs, configurations, and plugins, into a streamlined automated system. This initiative significantly reduced manual intervention and potential errors. Implemented an IaC strategy using Terraform, optimizing the provisioning of AWS resources. This forward-thinking approach ensured both consistency and efficiency in infrastructure deployment. Took on a vital oncall role, ensuring rapid response to downtime issues and critical escalations. My timely interventions minimized disruptions and maintained high system availability.</description>
+    </item>
+    
+    <item>
+      <title>DevOps Engineer - Innovate Tech</title>
+      <link>https://www.ajutamang.com.np/experience/innovatetech/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ajutamang.com.np/experience/innovatetech/</guid>
+      <description>Successfully transitioned the landing pages of mysecondteacher to an EKS cluster, resulting in markedly improved scalability and performance. Spearheaded the automation of AWS infrastructure for prominent websites such as Advanced Pedagogy, mysecondteacher, and Jelajahilmu. This initiative not only reduced manual efforts but also bolstered the overall reliability of the sites. Architected a GitLab CI/CD pipeline tailored for mysecondteacher services, utilizing a custom helm chart on EKS. This strategic move streamlined deployment, paving the way for swifter and more efficient updates.</description>
+    </item>
+    
+    <item>
+      <title>DevOps Intern - ESR Tech</title>
+      <link>https://www.ajutamang.com.np/experience/esr_tech/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ajutamang.com.np/experience/esr_tech/</guid>
+      <description>Proactively identified and patched vulnerabilities on both the ESR Tech official website and the Jenkins platform. This meticulous action significantly bolstered system security and minimized the risk of potential cyber-attacks. Configured a comprehensive monitoring dashboard centered around Service Level Indicators (SLI), capturing critical metrics such as I/O, CPU, memory, and network usage. This tool offered instantaneous insights into system health, paving the way for swift identification and resolution of emerging issues.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Developer Apprentice - Techkraft</title>
+      <link>https://www.ajutamang.com.np/experience/techkraft/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ajutamang.com.np/experience/techkraft/</guid>
+      <description> Architected and launched multiple containerized services on AWS EC2. This initiative streamlined application deployment, driving efficiency and reducing time-to-market. Showcased in-depth expertise in cloud computing by adeptly utilizing AWS, coupled with a demonstration of the Pub-Sub pattern via Rabbit MQ. This reinforced my proficiency in contemporary cloud and messaging technologies. </description>
+    </item>
+    
+    <item>
+      <title>Software Engineer Trainee - Insight Workshop</title>
+      <link>https://www.ajutamang.com.np/experience/insightworkshop/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ajutamang.com.np/experience/insightworkshop/</guid>
+      <description> Rigorously integrated best practices for Django security, substantially fortifying the application&amp;rsquo;s defenses against potential vulnerabilities and elevating its security standards. Played a pivotal role in the development of a robust MVP by leveraging deep expertise in Python, Django, and the REST framework. This ensured the delivery of a secure and high-performing application that met core business objectives. </description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://www.ajutamang.com.np/public-speaking/2012-06-08-graduation-speech/</link>
+      <pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ajutamang.com.np/public-speaking/2012-06-08-graduation-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.ajutamang.com.np/project/csaju/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ajutamang.com.np/project/csaju/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
